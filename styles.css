@@ -184,7 +184,7 @@
     font-size:0.85rem;
     padding:10px 16px;
     border-radius:0 0 8px 8px;
-    transform:rotate(3deg) translateY(-2px);
+    /* transform:rotate(3deg) translateY(-2px); */
     box-shadow:0 8px 14px -8px rgba(0,0,0,0.5);
   }
   .hero-eyebrow{
